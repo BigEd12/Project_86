@@ -1,0 +1,37 @@
+#heading {
+    background-color: #FFDEB9;
+    text-align: center;
+    padding: 2%;
+}
+
+#user-data {
+    background-color: #D5B4B4;
+    text-align: center;
+    padding: 2%;
+}
+
+.image-used {
+    max-width: 600px;
+    max-height: 400px;
+}
+
+#colours {
+    text-align: center;
+    padding: 2%;
+}
+
+.card-header {
+    height: 80px;
+}
+
+.card {
+    width: 80%;
+    padding: 2%;
+    margin: 2%;
+}
+
+.form-group {
+    text-align: left;
+}
+
+
